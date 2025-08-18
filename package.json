@@ -1,0 +1,28 @@
+{
+  "name": "@crisvsgame/lattice",
+  "version": "0.0.1",
+  "description": "A deterministic spatial composition and rendering engine",
+  "keywords": [
+    "canvas",
+    "deterministic",
+    "spatial",
+    "composition",
+    "rendering",
+    "engine"
+  ],
+  "homepage": "https://github.com/CRISvsGAME/lattice#readme",
+  "bugs": {
+    "url": "https://github.com/CRISvsGAME/lattice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRISvsGAME/lattice.git"
+  },
+  "license": "MIT",
+  "author": "CRISvsGAME <cris@crisvsgame.com>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
